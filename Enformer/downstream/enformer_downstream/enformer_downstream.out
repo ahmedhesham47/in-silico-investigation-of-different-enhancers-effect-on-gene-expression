@@ -1,0 +1,16 @@
+==========================================
+SLURM_JOB_ID = 267488
+SLURM_JOB_NODELIST = b18-16
+TMPDIR = /tmp/SLURM_267488
+==========================================
+Running on host: b18-16.hpc.usc.edu
+Allocated GPU(s): 0
+Checking GPU availability...
+GPUs: [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+Loading Enformer …
+Model ready.
+
+Processing 2710 sequences …
+
+✅  Finished TSV: enformer_predictions_unfiltered.tsv
+Total runtime: 934 seconds
